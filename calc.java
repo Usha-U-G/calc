@@ -14,4 +14,4 @@ public class calc {
         System.out.println("Division of " + a + " and " + b+ " is: " + div);
     }
     }
-}
+
